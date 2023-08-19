@@ -19,6 +19,10 @@ const navLinks =[
         title:'Blog',
     },
     {
+        path:'/products',
+        title:'Products',
+    },
+    {
         path:'/dashboard',
         title:'Dashboard',
     },

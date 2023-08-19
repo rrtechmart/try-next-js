@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "electronics",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 2,
+      "name": "clothing",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 3,
+      "name": "books",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 4,
+      "name": "home doctor",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 5,
+      "name": "sports",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 6,
+      "name": "beauty",
+      "imageUrl": "https://example.com/electronics.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "title": "iphone 13",
+      "price": "1200",
+      "categoryId": 2,
+      "features": [
+        "A13 bionic chips",
+        "super amolid screen",
+        "very lighters than others"
+      ],
+      "imageUrl": "https://example.com/iphone13.jpg"
+    },
+    {
+      "id": 3,
+      "title": "iphone 14",
+      "price": 1111,
+      "categoryId": 3,
+      "features": [
+        "A14 bionic chips",
+        "super amolid screen",
+        "lighters than others"
+      ],
+      "imageUrl": "https://example.com/iphone14.jpg"
+    }
+  ]
+}
